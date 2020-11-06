@@ -4,7 +4,7 @@ Tech enthusiastic and Pursuing Computer Engineering at GEC, Modasa 👨‍🎓.
 
 **Skills:** C | C++ | DS & Algo | Flutter
 
-- 💼 I am currently working iCare Flutter Project
+- 💼 I am currently working on iCare Flutter Project
 
 - ✍️ I am currently learning Flutter development
 
