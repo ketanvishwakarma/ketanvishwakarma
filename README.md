@@ -28,9 +28,9 @@ Tech enthusiastic and Pursuing Computer Engineering at GEC, Modasa 👨‍🎓.
 <br/>
 
 
-[![Twitter: Ketan](https://img.shields.io/twitter/follow/Ketan?style=social)](https://twitter.com/kdevigner) 
+[![Twitter: kdevigner](https://img.shields.io/twitter/follow/kdevvigner?style=social)](https://twitter.com/kdevigner) 
 [![Linkedin: Ketan](https://img.shields.io/badge/-Ketan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kdevigner/)](https://www.linkedin.com/in/kdevigner/)
-[![GitHub iampawan](https://img.shields.io/github/followers/ketanvishwakarma?label=follow&style=social)](https://github.com/ketanvishwakarma)
+[![GitHub ketanvishwakarma](https://img.shields.io/github/followers/ketanvishwakarma?label=follow&style=social)](https://github.com/ketanvishwakarma)
 
 
 <br/>
