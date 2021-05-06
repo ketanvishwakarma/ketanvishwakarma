@@ -6,7 +6,7 @@ Tech enthusiastic and Pursuing Computer Engineering at GEC, Modasa 👨‍🎓.
 - ✍️ I am currently learning Flutter development
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ketanvishwakarma&label=Views&color=blue&style=plastic" alt="KetanVishwakarma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ketanvishwakarma&label=Views&color=blue&style=flat" alt="KetanVishwakarma" /> </p>
 
 <a href="https://twitter.com/kdevigner">
   <img align="left" alt="Ketan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
