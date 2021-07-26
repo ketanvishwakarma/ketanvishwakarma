@@ -1,9 +1,4 @@
 # Hey 👋, This is Ketan Vishwakarma
-### About me 🤓
-Tech enthusiastic and Pursuing Computer Engineering at GEC, Modasa 👨‍🎓. 
-
-- 💼 I am currently working on iCare Flutter Project
-- ✍️ I am currently learning Flutter development
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketanvishwakarma&label=Views&color=blue&style=flat" alt="KetanVishwakarma" /> </p>
