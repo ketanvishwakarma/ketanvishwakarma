@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/42869168/194931339-ec4632cc-ca2e-478d-9b75-c493f558430a.png)
+![image](https://user-images.githubusercontent.com/42869168/194932649-0e0dcd9e-30ac-4436-a50a-6bddf09cefe3.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketanvishwakarma&label=Views&color=blue&style=for-the-badge" alt="KetanVishwakarma" /> </p>
 
