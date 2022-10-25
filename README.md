@@ -8,7 +8,7 @@ I'm a Flutter developer with 2 years of experience as individual and as a team m
 - 📫 &nbsp;How to reach me: [Twitter](https://twitter.com/kdevigner) or [LinkedIn](https://www.linkedin.com/in/kdevigner).
 - ⚡ &nbsp;Fun fact: Apart from flutter, I enjoy listening to music and capturing moments.
 
-📕 &nbsp;**Latest work**
+👨‍💻 &nbsp;**Latest work**
 - [UI Redesign - Desktop - Navigation Menu at atSign/atmosphere_pro](https://github.com/atsign-foundation/atmosphere_pro/pull/238)
 
 
