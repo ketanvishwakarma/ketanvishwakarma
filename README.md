@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Flutter developer with 2 years of experience as individual and as a team member. I'm a self-taught developer who loves to learn new things and share knowledge with others. I'm a fast learner and I'm always looking for new challenges. I'm a team player and I'm always ready to help others. 
+I'm a Flutter developer with 2 years of experience as individual and as a team member. I'm a self-taught developer who loves to learn new things and share knowledge with others. I'm a fast learner and always looking for new challenges. I'm a good team player and always ready to help others. 
 
 - 🔭 &nbsp;I’m currently working at Nautilus Techlabs.
 - 🌱 &nbsp;I’m currently learning more about Flutter and Dart.
