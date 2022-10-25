@@ -12,7 +12,7 @@ I'm a Flutter developer with 2 years of experience as individual and as a team m
 - [UI Redesign - Desktop - Navigation Menu at atSign/atmosphere_pro](https://github.com/atsign-foundation/atmosphere_pro/pull/238)
 
 
-### Awards and Achievements
+🏆 &nbsp;**Awards and Achievements**
 - [Achieved 5th place in the online flutter logo competition and received a swag box from Invertase and Flutter Vikings.](https://www.linkedin.com/feed/update/urn:li:activity:6990252234332598273/)
 - [Course completion certification - Dart Masterclass Programming Course: iOS/Android Bible](https://www.udemy.com/certificate/UC-30b7c923-3605-4db8-8c37-0be89b07f495/)
 - [Reached 350k people on StackOverflow](https://stackoverflow.com/users/6578482/ketan-vishwakarma)
