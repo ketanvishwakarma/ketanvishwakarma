@@ -2,11 +2,11 @@
 
 I'm a Flutter developer with 2 years of experience as individual and as a team member. I'm a self-taught developer who loves to learn new things and share knowledge with others. I'm a fast learner and I'm always looking for new challenges. I'm a team player and I'm always ready to help others. 
 
-- 🔭 &nbsp;I’m currently working at Nautilus Techlabs :wink:
-- 🌱 &nbsp;I’m currently learning more about Flutter and Dart
+- 🔭 &nbsp;I’m currently working at Nautilus Techlabs.
+- 🌱 &nbsp;I’m currently learning more about Flutter and Dart.
 - 💬 &nbsp;Ask me about anything related to Flutter, Dart and Firebase.
-- 📫 &nbsp;How to reach me: [Twitter](https://twitter.com/kdevigner) or [LinkedIn](https://www.linkedin.com/in/kdevigner)
-- ⚡ &nbsp;Fun fact: Apart from flutter, I enjoy listening to music :notes: and capturing moments :camera:
+- 📫 &nbsp;How to reach me: [Twitter](https://twitter.com/kdevigner) or [LinkedIn](https://www.linkedin.com/in/kdevigner).
+- ⚡ &nbsp;Fun fact: Apart from flutter, I enjoy listening to music and capturing moments.
 
 📕 &nbsp;**Latest work**
 - [UI Redesign - Desktop - Navigation Menu at atSign/atmosphere_pro](https://github.com/atsign-foundation/atmosphere_pro/pull/238)
