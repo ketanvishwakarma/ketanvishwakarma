@@ -1,9 +1,24 @@
+### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/42869168/194932649-0e0dcd9e-30ac-4436-a50a-6bddf09cefe3.png)
+I'm a Flutter developer with 2 years of experience as individual and as a team member. I'm a self-taught developer who loves to learn new things and share knowledge with others. I'm a fast learner and I'm always looking for new challenges. I'm a team player and I'm always ready to help others. 
+
+- 🔭 &nbsp;I’m currently working at Nautilus Techlabs :wink:
+- 🌱 &nbsp;I’m currently learning more about Flutter and Dart
+- 💬 &nbsp;Ask me about anything related to Flutter, Dart and Firebase.
+- 📫 &nbsp;How to reach me: [Twitter](https://twitter.com/kdevigner) or [LinkedIn](https://www.linkedin.com/in/kdevigner)
+- ⚡ &nbsp;Fun fact: Apart from flutter, I enjoy listening to music :notes: and capturing moments :camera:
+
+📕 &nbsp;**Latest work**
+- [UI Redesign - Desktop - Navigation Menu at atSign/atmosphere_pro](https://github.com/atsign-foundation/atmosphere_pro/pull/238)
+
+
+### Awards and Achievements
+- [Achieved 5th place in the online flutter logo competition and received a swag box from Invertase and Flutter Vikings.](https://www.linkedin.com/feed/update/urn:li:activity:6990252234332598273/)
+- [Course completion certification - Dart Masterclass Programming Course: iOS/Android Bible](https://www.udemy.com/certificate/UC-30b7c923-3605-4db8-8c37-0be89b07f495/)
+- [Reached 350k people on StackOverflow](https://stackoverflow.com/users/6578482/ketan-vishwakarma)
+- [Earned Java Intermediate Certification](https://www.hackerrank.com/ketanvishwakarma)
+- [Earned 2 Stars in CodeChef](https://www.codechef.com/users/ketanhuji)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketanvishwakarma&label=Views&color=blue&style=for-the-badge" alt="KetanVishwakarma" /> </p>
 
-### 📫 Reach me at 
-[![Twitter: kdevigner](https://img.shields.io/twitter/follow/kdevigner?style=social)](https://twitter.com/kdevigner) 
-[![Linkedin: kdevigner](https://img.shields.io/badge/-KetanVishwakarma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kdevigner/)](https://www.linkedin.com/in/kdevigner/)
-[![GitHub ketanvishwakarma](https://img.shields.io/github/followers/ketanvishwakarma?label=follow&style=social)](https://github.com/ketanvishwakarma)
