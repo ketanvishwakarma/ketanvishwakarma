@@ -2,7 +2,7 @@
 
 I'm a Flutter developer with 1.5+ years of industrial experience. I'm a self-taught developer who loves to learn new things and share knowledge with others. I'm a fast learner and always looking for new challenges. I'm a good team player and always ready to help others. 
 
-- 🔭 &nbsp;I’m currently working on my own project.
+- 🔭 &nbsp;I’m currently working on Movie details app.
 - 🌱 &nbsp;I’m currently learning more about Flutter and Dart.
 - 💬 &nbsp;Ask me about anything related to Flutter, Dart and Firebase.
 - 📫 &nbsp;How to reach me: [Twitter](https://twitter.com/kdevigner) or [LinkedIn](https://www.linkedin.com/in/kdevigner).
