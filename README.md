@@ -12,7 +12,6 @@ I'm a **Senior Flutter Developer** with **4.5+ years** experience building produ
 - [Awarded by MobileFirst Tech Evangelist 2024-25 for impactful contributions](https://www.linkedin.com/posts/kdevigner_flutter-dart-techevangelist-activity-7297660690889084928-smST?utm_source=share&utm_medium=member_desktop&rcm=ACoAABx6qVwBtQfwj5Yul55kWSqI1xWaH6Q2p5E)
 - [Delivered a talk on Flutter Animations to 30 devs at BOSC Tech Labs](https://www.linkedin.com/feed/update/urn:li:activity:7068855751418478594/)
 
----
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketanvishwakarma&label=Views&color=blue&style=for-the-badge" alt="KetanVishwakarma" /> </p>
 
